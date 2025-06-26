@@ -1,25 +1,39 @@
-# UH.AI
-UHAI is a Kenyan digital anthropology studio exploring AI identities through cultural storytelling and technology.
 # UHAI
 
-**UHAI** is Kenya’s first digital anthropology studio exploring the intersection of culture, identity, and artificial intelligence.
+**UHAI** is a Kenyan digital anthropology studio and cultural tech lab. We create AI personas and develop African avatar assets rooted in the complexity, beauty, and brilliance of Black identity.
 
-We create AI-powered personas that tell stories rooted in African lived experiences — reshaping how the continent is seen, imagined, and represented online.
-
-### 👁️ Vision
-To build soulful, culturally rooted AI identities that reflect the complexity, beauty, and brilliance of African lives.
-
-### 🌀 Our Projects
-- **Momi** – The first AI persona of UHAI: a maternal identity exploring motherhood, matrescence, and memory.
-- **[Coming Soon]** – Our second AI persona, inspired by Kenyan pop culture and Gen Z digital rebellion.
-
-### 🌍 Why It Matters
-UHAI challenges the limits of representation in tech by creating anthropologically grounded, emotionally intelligent AI voices from the continent.
-
-### 🔗 Connect With Us
-Follow our journey on Instagram: [@africanmatrescence](https://instagram.com/africanmatrescence)
+Our mission is to ensure that in the future of tech — whether in animation, AI, or the metaverse — African features, textures, and experiences are not an afterthought, but the foundation.
 
 ---
 
-**Built by Waithera Kahara**  
-*Digital Anthropologist*
+### 👁️ Vision
+To reclaim and reimagine how African identity is represented in the digital world — from every curl, freckle, nose shape, and skin tone to the untold stories behind them.
+
+---
+
+### 🌀 What We Do
+
+- **AI Personas**: We build emotionally intelligent digital characters grounded in cultural anthropology:
+  - **Momi** – An AI maternal identity exploring motherhood, matrescence, and memory.
+
+- **Afro Avatar Identity Assets**:  
+  A growing visual library focused on true representation — 4C hair, locs, diverse undertones, facial features, and cultural styles that reflect real African lives.
+
+- **Cultural Prototyping**:  
+  We experiment with digital storytelling, identity creation, and Afro-centered content design using tools like Animaker, Photopea, and open-source animation platforms.
+
+---
+
+### 🌍 Why It Matters
+Most tech and avatar platforms reflect a narrow, Western default. UHAI is here to change that — one Black digital identity at a time.
+
+---
+
+### 🔗 Connect With Us
+Instagram: [@africanmatrescence](https://instagram.com/africanmatrescence)
+
+---
+
+**Built by Waithera Kahara**
+
+
