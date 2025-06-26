@@ -1,6 +1,6 @@
-# UHAI
+# UHai
 
-**UHAI** is a Kenyan digital anthropology studio and cultural tech lab. We create AI personas and develop African avatar assets rooted in the complexity, beauty, and brilliance of Black identity.
+**UHai** is a Kenyan digital anthropology studio and cultural tech lab. We create AI personas and develop African avatar assets rooted in the complexity, beauty, and brilliance of Black identity.
 
 Our mission is to ensure that in the future of tech — whether in animation, AI, or the metaverse — African features, textures, and experiences are not an afterthought, but the foundation.
 
