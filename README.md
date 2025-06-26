@@ -19,8 +19,8 @@ To reclaim and reimagine how African identity is represented in the digital worl
 - **Afro Avatar Identity Assets**:  
   A growing visual library focused on true representation — 4C hair, locs, diverse undertones, facial features, and cultural styles that reflect real African lives.
 
-- **Cultural Prototyping**:  
-  We experiment with digital storytelling, identity creation, and Afro-centered content design using tools like Animaker, Photopea, and open-source animation platforms.
+-**Cultural Prototyping**:
+We explore and prototype digital identities through Afro-centered storytelling and design. Our work reimagines how African cultures are expressed, represented, and experienced in virtual spaces.
 
 ---
 
